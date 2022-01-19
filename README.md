@@ -5,4 +5,3 @@ I'm a Third Year PhD student in Institute of Software, Chinese Academy of Scienc
 - 🌱 I’m currently learning **Kubernetes** and **Golang**.
 - 📫 Email: tao2years@gmail.com, WeChat: tao2years
 - ⚡ Hobby: Board games, e.g., werewolf.
-- 🔍 Gitlab: https://gitlab.com/wangtao19
