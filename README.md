@@ -6,6 +6,10 @@ I'm a 6th Year PhD student in Institute of Software, Chinese Academy of Sciences
 - ⚡ Hobby: Tennis, board games.
 - 🌱 CV: [taos_cv](./cv/taos_cv_20240909.pdf)
 
+## Education
+- 2019.09 - Now, PhD student in Institute of Software, Chinese Academy of Sciences (ISCAS), Beijing, China
+- 2015.09 - 2019.06, BSc in Software Engineering, Northeastern University (NEU), Shenyang, China
+
 ## Publications
 - *<strong><strong>Tao Wang</strong></strong>, Wei Chen, Liwei Liu, Guoquan Wu, Jun Wei, Xiaoning Chang, Tao Huang. Maintain Runtime Consistency for IoT System Based on Device Behavior Models. International Conference on Software Engineering <strong><strong>(ICSE 2025, CCF A, under review)</strong></strong>*
 
