@@ -39,12 +39,12 @@ Email: tao2years@gmail.com, wangtao19@otcaix.iscas.ac.cn
 - **Invited Speaker**, CCF China Software Conference Excellent Doctoral Forum, 2023
 - **National Scholarship for Doctoral Students**, 2023
 - **ACM SIGSOFT Distinguished Paper Award**, 2023
-- **First-Class Academic Scholarship for Doctoral Students** (twice), 2022, 2023
+- **First-Class Academic Scholarship for Doctoral Students**, 2022, 2023, 2024
 - **Pacemaker to Merit Student**, University of Chinese Academy of Sciences, 2022
 - **Merit Student** (twice), University of Chinese Academy of Sciences, 2020, 2021
 - **Undergraduate Scholarship**, University of Chinese Academy of Sciences, 2019
 
 ## Internship
 - **Ant Group - Code Large Language Model Research**  
-  **2024.06 – Present**  
+  **2024.06 – 2024.10**  
   Enhanced the capabilities of Ant Group's Code LLM in the testing scenario through program analysis.
