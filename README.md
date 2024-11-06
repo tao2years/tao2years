@@ -16,13 +16,13 @@ Email: tao2years@gmail.com, wangtao19@otcaix.iscas.ac.cn
   BSc in Software Engineering, Northeastern University (NEU), Shenyang, China
 
 ## Publications
-- **Tao Wang**, Wei Chen, Liwei Liu, Guoquan Wu, Jun Wei, Xiaoning Chang, Tao Huang. *Maintain Runtime Consistency for IoT System Based on Device Behavior Models*. International Conference on Software Engineering **(ICSE 2025, CCF A, under review)**
+- **Tao Wang**, Wei Chen, Liwei Liu, Guoquan Wu, Jun Wei, Xiaoning Chang, Tao Huang. *Maintain Runtime Consistency for IoT System Based on Device Behavior Models*. International Conference on Software Engineering **(IMWUT 2025, CCF A, under review)**
 
 - Liwei Liu, **Tao Wang**, Wei Chen, Jun Wei, Wei Wang, Guoquan Wu. *LEGO: Synthesizing IoT Device Components based on Static Analysis and Large Language Models*. International Conference on Software Engineering **(ICSE 2025, CCF A, under review)**
 
-- **汪涛**, 陈伟, 刘力玮, 张康康, 窦文生, 朱家鑫, 吴国全, 魏峻, 黄涛. *基于大模型的智能空间系统设备组件缺陷检测研究*. **(软件学报 2024, 中文 CCF A, In Progress)**
+- **汪涛**, 陈伟, 刘力玮, 张康康, 窦文生, 朱家鑫, 吴国全, 魏峻, 黄涛. *基于大模型的智能空间系统设备组件缺陷检测研究*. **(软件学报 2025, 中文 CCF A, In Progress)**
 
-- **Tao Wang**, Wei Chen, Liwei Liu, Guoquan Wu, Jun Wei, Tao Huang. *Match Word with Deed: Maintaining Consistency for IoT Systems with Behavior Models*. International Conference on Automated Software Engineering **(ASE PT 2024, CCF A)**
+- **Tao Wang**, Wei Chen, Liwei Liu, Guoquan Wu, Jun Wei, Tao Huang. *Match Word with Deed: Maintaining Consistency for IoT Systems with Behavior Models*. International Conference on Automated Software Engineering **(ASE 2024, CCF A)**
 
 - **Tao Wang**, Wei Chen, Liwei Liu, Guoquan Wu, Jun Wei, Tao Huang. *Detecting Smart Home Automation Application Interferences with Domain Knowledge*. International Conference on Automated Software Engineering **(ASE 2023, CCF A). <font color="#dd0000">ACM SIGSOFT Distinguished Paper Award</font>**
 
